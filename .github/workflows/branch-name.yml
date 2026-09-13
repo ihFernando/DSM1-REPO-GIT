@@ -18,7 +18,7 @@ jobs:
             echo "  <tipo>/<JIRA-TICKET>_titulo-do-ticket"
             echo ""
             echo "Tipos validos: feat, fix, hotfix, refactor, chore, docs, test, style, perf, ci, build"
-            echo "Exemplo: feat/FC404-42_criar-tela-de-login"
+            echo "Exemplo: feat/PROJ-42_criar-tela-de-login"
             exit 1
           fi
 
